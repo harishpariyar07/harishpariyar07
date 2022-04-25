@@ -1,22 +1,22 @@
-<h1 align= "center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br> JhndaCoder here</h1>
+<h1 align= "center"> Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br> Harish Pariyar here</h1>
 
-<h3 align="center">I don't want what I wish, I want what I work for 😶‍🌫️</h3>
+<!-- <h3 align="center">I don't want what I wish, I want what I work for 😶‍🌫️</h3> -->
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhndaCoder&label=Profile%20views&color=0e75b6&style=flat" alt="JhndaCoder" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishpariyar07&label=Profile%20views&color=0e75b6&style=flat" alt="harishpariyar07" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JhndaCoder)](https://github.com/JhndaCoder)
+[![trophy](https://github-profile-trophy.vercel.app/?username=harishpariyar07)](https://github.com/harishpariyar07)
 
 ## About me 😎
 
-- 🏊 Currently deep diving in **JavaScript**
-- 🌱 I just started **LeetCode** and **DSA**
+- 🏊 Currently learning **DSA**
+- 🌱 I just started **React**
 - 🏃 I love to participate in **hackathons**
-- 😁 I am part time **student** and full time **memer**
-- 🛌 I am a wanna be **Mern Stack Developer**
-- 💌 Mail me at **agoyal3_be21@thapar.edu** to contact me.
+- 💪 I am a **fitness** enthusiast
+- 🛌 I am an aspiring **Mern Stack Developer**
+- 💌 Contact me at **hpariyar_be21@thapar.edu**
 
-## Skill Set :muscle:
+## Skill Set :
 
 These are some of the major technologies that I use or have worked on in the past:
 
@@ -39,23 +39,14 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-  <img src = "https://activity-graph.herokuapp.com/graph?username=JhndaCoder&theme=react-dark&hide_border=true&area=true" width = 800>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=harishpariyar07&theme=react-dark&hide_border=true&area=true" width = 800>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhndaCoder&theme=tokyonight" alt="JhndaCoder" width = "31%"/>
- <img src="https://github-readme-stats.vercel.app/api?username=JhndaCoder&show_icons=true&theme=gotham" alt="JhndaCoder" width = 68% />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishpariyar07&theme=tokyonight" alt="harishpariyar07" width = "31%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=harishpariyar07&show_icons=true&theme=gotham" alt="harishpariyar07" width = 68% />
 
-   <img src = "https://github-readme-streak-stats.herokuapp.com?user=JhndaCoder&theme=dark&hide_border=true" width = 400>
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=harishpariyar07&theme=dark&hide_border=true" width = 400>
   
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/amit-goyal~/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/_amit_x_goyal_/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt width="40"></a>|<a href = "https://discord.com/users/Safed%20Jhnda#4758"><img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" width ="50">
+<a href="https://www.linkedin.com/in/harish-pariyar-112b14209/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/harish_2_30//"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt width="40"></a>|<a href = "https://discord.com/users/harishpariyar18#3412"><img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" width ="50">
 |--|--|--|
-
-### Here is a random meme for you, to make your day better
-
-(*PS: Refresh the page to see a new meme* :wink: )
-
-<a href="https://github.com/JhndaCoder"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
-
-<p align = "center"> Hope you enjoyed going through my profile 😌<br>
-How about following me 🥺</p>
