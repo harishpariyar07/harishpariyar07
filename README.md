@@ -10,7 +10,7 @@
 ## About me : -
 
 - 🏊 Currently learning **DSA**
-- 🌱 I just started **React**
+- 🌱 I just started **Backend Development**
 - 🏃 I love to participate in **hackathons**
 - 💪 I am a **fitness** enthusiast
 - 🛌 I am an aspiring **Mern Stack Developer**
