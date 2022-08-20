@@ -9,11 +9,11 @@
 
 ## About me : -
 
-- 🏊 Currently learning **DSA**
-- 🌱 I just started **Backend Development**
+- 🏊 Currently learning **Backend Development**
+- 🌱 I just started **building some projects**
 - 🏃 I love to participate in **hackathons**
 - 💪 I am a **fitness** enthusiast
-- 🛌 I am an aspiring **Mern Stack Developer**
+- 🛌 I am a **Mern Stack Developer**
 - 💌 Contact me at **hpariyar_be21@thapar.edu**
 
 ## Skill Set :
